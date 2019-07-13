@@ -1,0 +1,45 @@
+body {
+    border: 20px solid #bdc;
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 700px;
+    width: 80%;
+    margin: 20px auto;
+    font-family: Helvetica, 'Lucida Sans',sans-serif;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.date {
+    color: #3498db;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+}
+
+.quote {
+    border-left: 5px solid #bdc;
+    padding-left: 5px;
+}
+
+.post {
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #1f3f2f;
+    font-size: 2.0rem;
+}
+
+p {
+    color: #1f3f2f;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+a {
+    text-decoration: none;
+    color: dodgerblue;
+}
